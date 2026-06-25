@@ -1,0 +1,14 @@
+# Infrastructure Portfolio Roadmap
+
+This roadmap documents the progression of my enterprise homelab and professional development projects.
+
+| Status | Project | Started | Completed |
+|---------|---------|----------|-----------|
+| ✅ | Enterprise Infrastructure Homelab | Jun 2025 | Ongoing |
+| ✅ | Network Architecture & VLAN Segmentation | Jun 2025 | Aug 2025 |
+| 🚧 | Proxmox Virtualization Cluster | Sep 2025 | Present |
+| 🚧 | Infrastructure Documentation | Sep 2025 | Present |
+| 📋 | TrueNAS Storage Architecture | Planned | - |
+| 📋 | Microsoft Intune Lab | Planned | - |
+| 📋 | Wazuh SIEM | Planned | - |
+| 📋 | Kubernetes Lab | Future | - |
